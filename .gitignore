@@ -1,3 +1,7 @@
-.pdf
-.png
-.c
+# ignore test folder completely
+test_folder/
+
+# ignore specific file types
+*.pdf
+*.png
+*.c
